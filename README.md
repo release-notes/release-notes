@@ -20,6 +20,6 @@ upgrade to the next compatible version, eg. in case of an security fix.
 
 ## Project Repositories
 
-- [Release Notes Specification](/release-notes/release-notes-spec)
-- [Release Notes JSON-Schema Definitions](/release-notes/release-notes-schema)
-- [Release Notes Node.js Reference Implementation](/release-notes/release-notes-node)
+- [Release Notes Specification](https://gitgub.com/release-notes/release-notes-spec)
+- [Release Notes JSON-Schema Definitions](https://gitgub.com/release-notes/release-notes-schema)
+- [Release Notes Node.js Reference Implementation](https://gitgub.com/release-notes/release-notes-node)
