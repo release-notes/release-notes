@@ -18,6 +18,12 @@ building compatible components in a distributed open source world.
 **BUT** it will not tell your dependents whether they have to urgently
 upgrade to the next compatible version, eg. in case of an security fix.
 
+## Roadmap
+
+- Finalize formal **specification** of release notes v1.
+- Implement **CLI tool** for managing and validating release notes.
+- Implement public **release notes hub**.
+
 ## Project Repositories
 
 - [Release Notes Specification](https://github.com/release-notes/release-notes-spec)
