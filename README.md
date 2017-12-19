@@ -1,6 +1,16 @@
-# Release Notes
-
-Open Source tools to make your dependents happy and to keep your own dependencies on track.
+<p align="center">
+  <img src="https://release-notes.com/android-chrome-512x512.png" alt="Release Notes">
+</p>
+<h1 align="center">Release Notes</h1>
+<p align="center">
+  :tada: Hosted changelog pages and release announcements for open source projects :tada:
+  <br>
+  :clipboard: Lightweight release notes yml schema specification :clipboard:
+  <br>
+  :neckbeard: Cli tools for release notes management :neckbeard:
+  <br>
+  <a href="https://release-notes.com" target="_blank">https://release-notes.com</a>
+</p>
 
 
 ## About
